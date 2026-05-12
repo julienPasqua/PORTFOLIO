@@ -17,7 +17,7 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}
               className="mb-4 text-sm font-medium uppercase tracking-[0.35em] text-cyan-300/80">
-              Portfolio 💻 + 📱
+              Portfolio
             </motion.p>
 
             <motion.h1
